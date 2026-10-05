@@ -1,20 +1,17 @@
-# Library Management System (Java + MySQL)
+# Library Management System (Java )
 
 ##  Description
 A management system for libraries that keeps track of books, members, and borrowing/return operations.
 
 ##  Skills Used
 - Java
-- MySQL
-- JDBC
-- CRUD Operations
 
 ##  Features
 - Add new books
 - Register members
 - Borrow and return books
 - Search for books by ID/Name
-- Store data in MySQL
+
 
 ##  How to Run
 1. Clone the repository
